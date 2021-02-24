@@ -23,6 +23,7 @@ public class MyApplication {
             System.out.println("2. Get user by id");
             System.out.println("3. Create user");
             System.out.println("4. Modify the user");
+            System.out.println("5. Log in to account");
             System.out.println("0. Exit");
             System.out.println();
             try {
